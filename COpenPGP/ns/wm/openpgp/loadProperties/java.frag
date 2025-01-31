@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">loadProperties</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">dHJ5IHsNCglGaWxlIGYgPSBjb20ud20uYXBwLmIyYi5zZXJ2ZXIuU2VydmVyQVBJLmdldFBhY2th
+Z2VDb25maWdEaXIoIkNPcGVuUEdQIik7DQoJb3BlbnBncHByb3BzLmxvYWQobmV3IEZpbGVJbnB1
+dFN0cmVhbShuZXcgRmlsZShmLCAib3BlbnBncC5wcm9wZXJ0aWVzIikpKTsNCn0gY2F0Y2ggKEV4
+Y2VwdGlvbiBlKSB7DQoJdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oIkVycm9yIGxvYWRpbmcg
+b3BlbnBncC5wcm9wZXJ0aWVzOiAiICsgZSk7DQp9DQoNClN0cmluZyBvcGVucGdwaG9tZSA9IG9w
+ZW5wZ3Bwcm9wcy5nZXRQcm9wZXJ0eSgicGdwLmhvbWUiKTsNCmlmIChvcGVucGdwaG9tZSA9PSBu
+dWxsKSB7DQoJdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oInBncC5ob21lIG5vdCBzZXQuIik7
+DQp9DQoJDQoJ</value>
+</Values>

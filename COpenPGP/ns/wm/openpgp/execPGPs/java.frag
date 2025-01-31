@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">execPGPs</value>
+  <array name="sig" type="value" depth="1">
+    <value>[i] field:0:required cmdline</value>
+    <value>[i] object:0:required inputStream</value>
+    <value>[o] field:0:required status</value>
+    <value>[o] object:0:required outputStream</value>
+    <value>[o] field:0:required error</value>
+  </array>
+  <value name="sigtype">java 3.5</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">IApJRGF0YUN1cnNvciBpZGMgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsKClN0cmluZyBjbWRsaW5l
+cGFybXMgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKGlkYywgImNtZGxpbmUiKTsKCmludCB0aW1lb3V0
+ID0gSURhdGFVdGlsLmdldEludChpZGMsICJ0aW1lb3V0IiwgMzApOwoKLy8gR2V0IHRoZSBPcGVu
+UEdQIGNvbW1hbmQgdG8gcnVuCmNtZGxpbmVwYXJtcyA9IG9wZW5wZ3Bwcm9wcy5nZXRQcm9wZXJ0
+eSgicGdwLmNvbW1hbmQiLCAiL3Vzci9iaW4vZ3BnIikgKyAiICIgKyBjbWRsaW5lcGFybXM7CgpC
+dWZmZXJlZElucHV0U3RyZWFtIGV4ZWNJbnB1dDsKaWYgKGlkYy5maXJzdCgiaW5wdXRTdHJlYW0i
+KSkgewoJZXhlY0lucHV0ID0KCQluZXcgQnVmZmVyZWRJbnB1dFN0cmVhbSgKCQkJKElucHV0U3Ry
+ZWFtKSBJRGF0YVV0aWwuZ2V0KGlkYywgImlucHV0U3RyZWFtIikpOwp9IGVsc2UgewoJZXhlY0lu
+cHV0ID0gbnVsbDsKfQoKQ29tbWFuZFJ1bm5lciBjciA9IG5ldyBDb21tYW5kUnVubmVyKCk7Cgov
+LyBUT0RPOiBtYWtlIHRoZXNlIHJlYWwgc3RyZWFtcyBmcm9tIHRoZSBmb3JrZWQgcHJvY2VzcwpC
+eXRlQXJyYXlPdXRwdXRTdHJlYW0gZXhlY0Vycm9yID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVh
+bSgpOwpCeXRlQXJyYXlPdXRwdXRTdHJlYW0gZXhlY091dHB1dCA9IG5ldyBCeXRlQXJyYXlPdXRw
+dXRTdHJlYW0oKTsKdHJ5IHsKCgkvL1N5c3RlbS5vdXQucHJpbnRsbigiUnVubmluZyAiICsgY21k
+bGluZXBhcm1zKTsKCgljci5zZXRDb21tYW5kKGNtZGxpbmVwYXJtcyk7Cgljci5zZXRJbnB1dFN0
+cmVhbShleGVjSW5wdXQpOwoJY3Iuc2V0U3RkRXJyb3JTdHJlYW0oZXhlY0Vycm9yKTsKCWNyLnNl
+dFN0ZE91dHB1dFN0cmVhbShleGVjT3V0cHV0KTsKCWNyLnNldFRpbWVvdXQodGltZW91dCk7Cglj
+ci5ldmFsdWF0ZSgpOwp9IGNhdGNoIChJT0V4Y2VwdGlvbiBpb2UpIHsKCXRocm93IG5ldyBTZXJ2
+aWNlRXhjZXB0aW9uKAoJCSJJL08gRXhjZXB0aW9uIHJ1bm5pbmcgY29tbWFuZDogIiArIGlvZS50
+b1N0cmluZygpKTsKfQoKaW50IHN0YXR1cyA9IGNyLmdldEV4aXRWYWx1ZSgpOwoKQnl0ZUFycmF5
+SW5wdXRTdHJlYW0gYmFpcyA9CgluZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oZXhlY091dHB1dC50
+b0J5dGVBcnJheSgpKTsKCmlkYy5pbnNlcnRBZnRlcigib3V0cHV0U3RyZWFtIiwgYmFpcyk7Cmlk
+Yy5pbnNlcnRBZnRlcigic3RhdHVzIiwgSW50ZWdlci50b1N0cmluZyhzdGF0dXMpKTsKaWRjLmlu
+c2VydEFmdGVyKCJlcnJvciIsIGV4ZWNFcnJvci50b1N0cmluZygpKTsKCmlkYy5kZXN0cm95KCk7
+CgoJCg==</value>
+</Values>
