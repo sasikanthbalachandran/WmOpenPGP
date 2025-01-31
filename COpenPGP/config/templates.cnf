@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="templates" javaclass="com.wm.util.Values">
+    <record name="pub_openpgp_clearsign.html" javaclass="com.wm.util.Values">
+      <value name="encoding">UTF8</value>
+    </record>
+    <record name="openpgpout.html.html" javaclass="com.wm.util.Values">
+      <value name="encoding">UTF8</value>
+    </record>
+    <record name="openpgpout.html" javaclass="com.wm.util.Values">
+      <value name="encoding">UTF8</value>
+    </record>
+  </record>
+</Values>
