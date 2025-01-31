@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="version">1.0</value>
+  <record name="startup_services" javaclass="com.wm.util.Values">
+    <null name="wm.openpgp:loadProperties"/>
+  </record>
+  <record name="shutdown_services" javaclass="com.wm.util.Values">
+  </record>
+  <null name="replication_services"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+  </record>
+  <value name="system_package">no</value>
+  <value name="listACL">Default</value>
+  <value name="name">BStarOpenPGP</value>
+  <value name="build">9.8.5,672</value>
+  <value name="description">OpenPGP to Encrypt and Decrypt Files</value>
+  <value name="time">2020-10-16 23:27:03 AEDT</value>
+  <value name="jvm_version">1.8.0_112</value>
+  <value name="publisher">a01lpbsmm02.brightstarcorp.com</value>
+  <value name="patch_nums"></value>
+  <value name="webappLoad">yes</value>
+</Values>
